@@ -1,4 +1,4 @@
-package guru.springframework.svgpetclinic.model;
+package guru.springframework.sfgpetclinic.model;
 
 /**
  * Created by Игрушка on 23.12.2022
@@ -7,5 +7,5 @@ package guru.springframework.svgpetclinic.model;
  * @date : 23.12.2022
  * @project : svg-pet-clinic
  */
-public class Owner extends Person {
+public class Vet extends Person{
 }

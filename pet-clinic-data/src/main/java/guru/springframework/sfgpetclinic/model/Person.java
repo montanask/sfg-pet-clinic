@@ -1,4 +1,4 @@
-package guru.springframework.svgpetclinic.model;
+package guru.springframework.sfgpetclinic.model;
 
 /**
  * Created by Игрушка on 23.12.2022

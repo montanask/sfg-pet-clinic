@@ -1,4 +1,4 @@
-package guru.springframework.svgpetclinic;
+package guru.springframework.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,10 +11,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @project : svg-pet-clinic
  */
 @SpringBootApplication
-public class SvgPetClinicApplication {
+public class SfgPetClinicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SvgPetClinicApplication.class, args);
+        SpringApplication.run(SfgPetClinicApplication.class, args);
     }
 
 }
