@@ -3,9 +3,9 @@ package guru.springframework.sfgpetclinic.model;
 import java.time.LocalDate;
 
 /**
- * Created by Игрушка on 23.12.2022
+ * Created by Ihor Sukalin on 23.12.2022
  *
- * @author : Игрушка
+ * @author : Ihor Sukalin
  * date : 23.12.2022
  * project : svg-pet-clinic
  */
