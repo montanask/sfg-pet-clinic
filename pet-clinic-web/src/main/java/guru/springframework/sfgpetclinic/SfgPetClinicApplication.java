@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by Ihor Sukalin on 22.12.2022
+ * Created by Ihor Sukalin on 27.12.2022
  *
  * @author : Ihor Sukalin
- * date : 22.12.2022
+ * date : 27.12.2022
  * project : svg-pet-clinic
  */
 @SpringBootApplication

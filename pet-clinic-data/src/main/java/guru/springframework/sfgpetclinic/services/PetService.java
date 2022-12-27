@@ -5,9 +5,9 @@ import guru.springframework.sfgpetclinic.model.Pet;
 import java.util.Set;
 
 /**
- * Created by Sukalin Ihor on 27.12.2022
+ * Created by Ihor Sukalin on 27.12.2022
  *
- * @author : Sukalin Ihor
+ * @author : Ihor Sukalin
  * date : 27.12.2022
  * project : svg-pet-clinic
  */
