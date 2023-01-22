@@ -9,13 +9,21 @@ import java.time.LocalDate;
  * date : 27.12.2022
  * project : svg-pet-clinic
  */
+
 public class Pet extends BaseEntity {
 
+    private String name;
     private PetType type;
-
     private Owner owner;
-
     private LocalDate birthDate;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public PetType getType() {
         return type;
