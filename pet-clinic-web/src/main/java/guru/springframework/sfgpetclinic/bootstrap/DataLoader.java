@@ -41,7 +41,7 @@ public class DataLoader implements CommandLineRunner {
     public void run(String... args) throws Exception {
         int count = petTypeService.findAll().size();
 
-        if (count == 1) {
+        if (count == 0) {
             loadData();
         }
     }
@@ -108,7 +108,7 @@ public class DataLoader implements CommandLineRunner {
         Vet vet2 = new Vet();
         vet2.setFirstName("Jessie");
         vet2.setLastName("Porter");
-        vet1.getSpecialities().add(savedSurgery);
+        vet2.getSpecialities().add(savedSurgery);
 
         vetService.save(vet2);
 
